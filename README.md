@@ -2,6 +2,9 @@
 ![](https://vistr.dev/badge?repo=Jimgeo98.Jimgeo98)
 
 Website : https://www.jimgeo.ml/
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Jimgeo98/Jimgeo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
