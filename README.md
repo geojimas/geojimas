@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'am Jim 👋
 ![](https://vistr.dev/badge?repo=Jimgeo98.Jimgeo98)
 
 Website : https://www.jimgeo.ml/
