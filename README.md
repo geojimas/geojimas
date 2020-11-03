@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+![](https://vistr.dev/badge?repo=Jimgeo98.Jimgeo98)
 <!--
 **Jimgeo98/Jimgeo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[](https://vistr.dev/badge?repo=Jimgeo98.Jimgeo98)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
