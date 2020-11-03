@@ -2,7 +2,7 @@
 ![](https://vistr.dev/badge?repo=Jimgeo98.Jimgeo98)
 
 
-  <p>Website<p> : https://www.jimgeo.ml/
+  Website : https://www.jimgeo.ml/
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
