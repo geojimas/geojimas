@@ -1,4 +1,4 @@
-### Hi there I'am Jim 👋
+### Hi there I'am Jim junior Developer 👋
 ![](https://vistr.dev/badge?repo=Jimgeo98.Jimgeo98)
 
 
