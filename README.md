@@ -3,7 +3,7 @@
 
   Website : https://www.jimgeo.ml/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&theme=radical&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&theme=radical&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&langs_count=10&bg_color=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jimgeo98/Jimgeo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
