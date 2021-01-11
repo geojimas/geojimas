@@ -4,7 +4,7 @@
 
 📫 How to reach me 👉 https://www.jimgeo.ml/
 
-🔭 I’m currently working on my Blog 👉 https://jackdow.vercel.app/
+🔭 My Blog 👉 https://jackdow.vercel.app/
 
 🌱 I’m currently learning PHP 🤘
 
