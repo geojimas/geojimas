@@ -2,9 +2,9 @@
 
 ![](https://vistr.dev/badge?repo=Jimgeo98.Jimgeo98)
 
-📫 How to reach me 👉 https://www.jimgeo.ml/
+📫 How to reach me 👉 https://www.jimgeo.ml
 
-🔭 My Blog 👉 https://jackdow.vercel.app/
+🔭 My Blog 👉 https://jackdow.vercel.app
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&langs_count=8&theme=calm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
