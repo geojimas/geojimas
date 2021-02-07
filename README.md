@@ -6,7 +6,7 @@
 
 🔭 My Blog 👉 https://jackdow.vercel.app
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&count_private=true&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&langs_count=8&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
