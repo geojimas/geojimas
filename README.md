@@ -2,7 +2,7 @@
 
 ![](https://vistr.dev/badge?repo=Jimgeo98.Jimgeo98)
 
-📫 How to reach me 👉 https://www.jimgeo.ml
+📫 My Website 👉 https://www.jimgeo.ml
 
 🔭 My Blog 👉 https://jackdow.vercel.app
 
