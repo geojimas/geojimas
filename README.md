@@ -4,8 +4,6 @@
 
 📫 My Website 👉 https://www.jimgeo.tk
 
-🔭 My Blog 👉 https://jackdow.vercel.app
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&count_private=true&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&langs_count=10&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
