@@ -4,7 +4,7 @@
 
 📫 My Website 👉 https://www.jimgeo.tk
 
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&count_private=true&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&langs_count=10&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
