@@ -5,7 +5,7 @@ I'm currently learning GraphQL / TypeGraphQL with Apollo Server
 📫 My Website 👉 https://www.jimgeo.tk
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jimgeo98&count_private=true&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&langs_count=8&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimgeo98&langs_count=6&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jimgeo98/Jimgeo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
