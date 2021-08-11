@@ -8,29 +8,7 @@ I'm currently learning GraphQL / TypeGraphQL with Apollo Client
 
 
 ### Technologies Stack iam using:
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" />
 
 
 
