@@ -2,7 +2,7 @@
 ### I'm currently doing my internship.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=geojimas&count_private=true&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=8&theme=ayu-miragek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=8&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 😄 Technologies i'am using:
