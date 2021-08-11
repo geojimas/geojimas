@@ -9,7 +9,7 @@ I'm currently learning GraphQL / TypeGraphQL with Apollo Client
 
 
 ### Technologies stack
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
 
 
 
