@@ -8,13 +8,7 @@ I'm currently learning GraphQL / TypeGraphQL with Apollo Client
 
 
 ### Technologies Stack iam using:
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" />
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
 
