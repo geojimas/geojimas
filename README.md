@@ -7,7 +7,7 @@
 <h2>Hi, I'm a Full Stack Developer living in Greece.</h2>
 <p>
   I'm active in both frontend and backend development and always aim to improve my skills.
-  I like making websites and web applications & solving problems.
+  I like to solve problems & making websites and web applications.
 </p>
 <p>
   Currently, I am working in <i> Arx.NET S.A. </i> at Thessaloniki.
