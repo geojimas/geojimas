@@ -4,14 +4,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=8&theme=noctis_minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=8&layout=compact&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117&show_icons=true&langs_count=10&cache_seconds=1800&exclude_repo=Project_RBSG" alt="Top Languages" align="left">
-<h2>Hi, I'm a software engineer living in Vienna.</h2>
+<h2>Hi, I'm a Full Stack Developer living in Greece.</h2>
 <p>
   I'm active in both frontend and backend development and always aim to improve my skills.
   When I'm not exploring frameworks like Ktor, Vue, or Nuxt, I also delve into DevOps and automation using GitHub Actions.
 </p>
 <p>
-  Currently, I am studying <i>Software Engineering & Internet Computing</i> at the TU Wien.
-  In parallel, I am a working student at Senacor Technologies AG.
+  Currently, I am working in <i>Arx.NET</i> at Thessaloniki.
 </p>
 
 ___
