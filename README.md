@@ -9,9 +9,9 @@
   I'm active in both frontend and backend development and always aim to improve my skills.
   I like to solve problems & making web applications.
 </p>
-<p>
-  I like Modern Frameworks like Vue / Express / Lavavel / FastAPI
-</p>
+<i>
+  I like to work with Modern Frameworks like Vue / Express / Lavavel / FastAPI.
+</i>
 <p>
   Currently, I am working in <i> Arx.NET S.A. </i> at Thessaloniki.
 </p>
