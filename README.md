@@ -7,10 +7,10 @@
 <h2>Hi, I'm a Full Stack Developer living in Greece.</h2>
 <p>
   I'm active in both frontend and backend development and always aim to improve my skills.
-  When I'm not exploring frameworks like Ktor, Vue, or Nuxt, I also delve into DevOps and automation using GitHub Actions.
+  I like making websites and web applications & solving problems.
 </p>
 <p>
-  Currently, I am working in <i>Arx.NET</i> at Thessaloniki.
+  Currently, I am working in <i> Arx.NET S.A. </i> at Thessaloniki.
 </p>
 
 ___
