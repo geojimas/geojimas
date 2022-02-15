@@ -8,6 +8,8 @@
 <p>
   I'm active in both frontend and backend development and always aim to improve my skills.
   I like to solve problems & making web applications.
+</p>
+<p>
   I like Modern Frameworks like Vue / Express / Lavavel / FastAPI
 </p>
 <p>
