@@ -13,7 +13,7 @@
   I love to work with Modern Frameworks like Vue / Express / Lavavel / FastAPI.
 </i>
 <p>
-  Currently, I am working in <i> Arx.NET S.A. </i> at Thessaloniki.
+  Currently, I am working as Frontend web developer in <i> Arx.NET S.A. </i> at Thessaloniki.
 </p>
 
 ___
