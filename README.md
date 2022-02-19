@@ -6,11 +6,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=8&layout=compact&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117&show_icons=true&cache_seconds=1800&exclude_repo=Project_RBSG" alt="Top Languages" align="left">
 <h2>Hi, I'm a Full Stack Developer living in Greece.</h2>
 <p>
-  I'm active in both frontend and backend development and always aim to improve my skills.
+  I'm active in both <strong> frontend </strong> and <strong> backend </strong> development and always aim to improve my skills.
   I like to solve problems & making web applications.
 </p>
 <i>
-  I love to work with Modern Frameworks like <strong> Vue / Express / Lavavel / FastAPI </strong>.
+  I love to work with Modern Frameworks like <strong> Vue / Express / Lavavel / FastAPI </strong>
 </i>
 <p>
   Currently, I am working in <strong> Arx.NET S.A. </strong> at Thessaloniki.
