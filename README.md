@@ -10,7 +10,7 @@
   I like to solve problems & making web applications.
 </p>
 <i>
-  I enjoy to work with Modern Frameworks like Vue / Express / Lavavel / FastAPI.
+  I enjoy to work with Modern Frameworks like VueJS / NextJS / ExpressJS / Lavavel / FastAPI.
 </i>
 <p>
   Currently, I am working in <i> Arx.NET S.A. </i> at Thessaloniki.
