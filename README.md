@@ -17,6 +17,8 @@
   Currently, I am working in <strong> Arx.NET S.A. </strong>
 </p>
 
+![](https://github.com/geojimas/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/geojimas/github-stats/blob/master/generated/languages.svg)
 ___
 
 ### 😄 Technologies i'am using:
