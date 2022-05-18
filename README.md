@@ -4,7 +4,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=8&theme=noctis_minimus&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Metrics](https://metrics.lecoq.io/geojimas?template=classic&config.timezone=Europe%2FAthens) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=9&layout=compact&hide_border=true&theme=codeSTACKr&show_icons=true&cache_seconds=1800&exclude_repo=Project_RBSG" alt="Top Languages" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=8&layout=compact&hide_border=true&theme=codeSTACKr&show_icons=true&cache_seconds=1800&exclude_repo=Project_RBSG" alt="Top Languages" align="left">
 <h2>Hi, I'm a Full Stack Developer living in Greece.</h2>
 <p>
   I'm active in both <strong> frontend </strong> and <strong> backend </strong> development and always aim to improve my skills.
