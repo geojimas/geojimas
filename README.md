@@ -11,7 +11,7 @@
   I like to solve problems & making web applications.
 </p>
 <i>
-  I love to work with Modern Frameworks like <strong> Vue / Next / Express / Lavavel / FastAPI </strong>
+  I love to work with Modern Frameworks like <strong> Vue / Next / Express / Lavavel </strong>
 </i>
 <p>
   Currently, I am working in <strong> Arx.NET S.A. </strong>
