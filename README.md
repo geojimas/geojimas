@@ -13,7 +13,7 @@
   I love to work with Modern Frameworks like <strong> Vue / Next / Express / Lavavel </strong>
 </i>
 <p>
-  Currently, I am working in <strong> Arx.NET S.A. </strong>
+  Currently, I am working at <strong> Arx.NET S.A. </strong>
 </p>
 
 ___
