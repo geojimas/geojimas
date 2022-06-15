@@ -7,8 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=8&layout=compact&hide_border=true&theme=codeSTACKr&show_icons=true&cache_seconds=1800&exclude_repo=Project_RBSG" alt="Top Languages" align="left">
 <h2>Hi, I'm a Full Stack Developer living in Greece.</h2>
 <p>
-  I'm active in both <strong> frontend </strong> and <strong> backend </strong> development and always aim to improve my skills.
-  I like to solve problems & making web applications.
+  I'm active in both <strong> frontend </strong> and <strong> backend </strong> development and always aim to improve my skills. I don't know everything, but i know just enough to be aware of how to find what I don't know.
 </p>
 <i>
   I love to work with Modern Frameworks like <strong> Vue / Next / Express / Lavavel </strong>
