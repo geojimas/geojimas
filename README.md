@@ -6,7 +6,9 @@
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geojimas&langs_count=10&layout=compact&hide_border=true&theme=codeSTACKr&show_icons=true&cache_seconds=1800&exclude_repo=Project_RBSG" alt="Top Languages" align="left"> -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=dracula)
+<div align="left">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=dracula)
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=dracula)
 <!-- 
