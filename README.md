@@ -8,10 +8,6 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=dracula" alt="Top Languages" align="left">
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=dracula) -->
-<!-- 
 <h2>Hi, I'm a Full Stack Developer living in Greece.</h2>
 <p>
   I'm active in both <strong> frontend </strong> and <strong> backend </strong> development and always aim to improve my skills. I don't know everything, but i know just enough to be aware of how to find what I don't know.
@@ -22,7 +18,7 @@
 <p>
   Currently, I am working at <strong> Arx.NET S.A. </strong>
 </p>
- -->
+
 ___
 
 ### 😄 Technologies i'am using:
