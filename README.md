@@ -8,9 +8,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=radical" alt="Top Languages" align="left">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=radical" alt="Stats" align="center">
-
 ___
-
 
 <!-- <h2>Hi, I'm a Full Stack Developer living in Greece.</h2>
 <p>
@@ -22,7 +20,6 @@ ___
 <p>
   Currently, I am working at <strong> Arx.NET S.A. </strong>
 </p>
-
 
 ### 😄 Technologies i'am using:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="35" height="35" />
