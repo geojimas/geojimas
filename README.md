@@ -16,12 +16,12 @@ ___
 <p>
   I'm active in both <strong> frontend </strong> and <strong> backend </strong> development and always aim to improve my skills. I don't know everything, but i know just enough to be aware of how to find what I don't know.
 </p> -->
-<i>
+<!-- <i>
   I love to work with Modern Frameworks like <strong> Vue / Next / Express / Lavavel </strong>
 </i>
 <p>
   Currently, I am working at <strong> Arx.NET S.A. </strong>
-</p>
+</p> -->
 
 ### 😄 Technologies i'am using:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="35" height="35" />
