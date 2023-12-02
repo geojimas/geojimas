@@ -1,4 +1,14 @@
+<div align="center">
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=geojimas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=geojimas&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ </div>
+<h2 align="center">⚒️ Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,sass,javascript,typescript,vue,react,nodejs,firebase,tailwind,git" />
+</div>
+<!-- <div align=center>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=2077)
+</div> -->
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="35" height="35" /> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="35" height="35" />
+
