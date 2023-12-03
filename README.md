@@ -4,7 +4,7 @@
  </div>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,sass,tailwind,javascript,typescript,vue,nuxt,react,nodejs,express,firebase,git,pinia,vuex,vite,quasar,jest" />
+    <img src="https://skillicons.dev/icons?i=html,sass,tailwind,javascript,typescript,vue,nuxt,react,jest,nodejs,express,firebase,git,vite" />
 </div>
 <!-- <div align=center>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=2077)
