@@ -6,7 +6,7 @@
  </div>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,tailwind,vue,react,vite,eslint,nodejs,docker,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,tailwind,vue,react,vite,nodejs,docker,git" />
 </div>
 <!-- <div align=center>  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=dark)
