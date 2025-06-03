@@ -4,8 +4,8 @@
 <!--  <div align="center">
      <img width=700 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geojimas&theme=codeSTACKr" alt="readme stats 1" />
 </div> -->
-<img width=300 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=codeSTACKr" alt="readme stats 2" />
-<img width=300 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=codeSTACKr" alt="top langs" />
+<img width=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=codeSTACKr" alt="readme stats 2" />
+<img width=350 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=codeSTACKr" alt="top langs" />
  </div>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
