@@ -4,14 +4,14 @@
 <!--  <div align="center">
      <img width=700 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geojimas&theme=codeSTACKr" alt="readme stats 1" />
 </div> -->
-<img width=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=codeSTACKr" alt="readme stats 2" />
-<img width=350 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=codeSTACKr" alt="top langs" />
+<img width=350 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=graywhite" alt="readme stats 2" />
+<img width=350 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=graywhite" alt="top langs" />
  </div>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,tailwind,vue,pinia,react,vite,nodejs,docker,git" />
 </div>
 <!-- <div align=center>  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=graywhite) 
 </div>  -->
