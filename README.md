@@ -7,5 +7,5 @@
 </div>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,sass,tailwind,pinia,vite,docker,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,sass,tailwind,vite,docker,git" />
 </div>
