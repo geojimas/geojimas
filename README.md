@@ -7,7 +7,7 @@
 </div>
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,vite,pinia,tailwind,git,supabase,nodejs,laravel,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,pinia,tailwind,git,nodejs,laravel,ubuntu" />
 </div>
 <!-- <div align="center">
 	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/>
