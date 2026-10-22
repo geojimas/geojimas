@@ -4,7 +4,9 @@
 	
   <!--  <img width=700 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geojimas&theme=codeSTACKr" alt="readme stats 1" /> -->
  <img width=350 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geojimas&theme=react&animation=load" alt="readme stats" />
- <img width=350 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geojimas&theme=react&animation=load" alt="top langs" />
+ <!-- <img width=350 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geojimas&theme=react&animation=load" alt="top langs" /> -->
+  <img width=350 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geojimas&theme=react&animation=load" alt="top langs" />
+
   
 <h2 align="center">⚒️ Tools ⚒️</h2>
   <!--<div align="center">
